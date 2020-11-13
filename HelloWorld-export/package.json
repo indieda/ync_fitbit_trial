@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "61f9b85d-f5f2-4491-892f-a3185c974e52",
+    "appType": "app",
+    "appDisplayName": "HelloWorld",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_activity",
+      "run_background",
+      "access_exercise",
+      "access_heart_rate",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "HelloWorld"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

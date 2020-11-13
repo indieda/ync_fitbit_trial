@@ -1,0 +1,7 @@
+<svg>
+  <text id="steps-label" class="sensor-label" x="50%" y="45">stepsLabel</text>
+  <text id="steps-data" class="sensor-data" x="50%" y="175">he</text>
+
+  <text id="hrm-label" class="sensor-label" x="20%" y="225">heartRate</text>
+  <text id="hrm-data" class="sensor-data" x="60%" y="225"></text>
+</svg>
